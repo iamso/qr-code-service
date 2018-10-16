@@ -1,0 +1,7 @@
+{
+  "name": "qrcode",
+  "type": "npm",
+  "alias": [
+    "qrcode.dev.so"
+  ]
+}
