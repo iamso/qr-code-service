@@ -2,5 +2,6 @@
   "name": "qrcode",
   "alias": [
     "qrcode.dev.so"
-  ]
+  ],
+  "version": 1
 }
