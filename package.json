@@ -13,9 +13,9 @@
   "author": "Steve Ottoz <so@dev.so>",
   "license": "MIT",
   "dependencies": {
-    "@babel/preset-env": "^7.0.0-beta.32",
+    "@babel/preset-env": "^7.11.0",
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "express": "^4.16.2"
+    "babel-preset-env": "^1.7.0",
+    "express": "^4.17.1"
   }
 }
